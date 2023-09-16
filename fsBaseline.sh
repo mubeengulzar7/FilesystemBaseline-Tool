@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Description:
-# This program creates a file system baseline or if a previous baseline exists then compares the difference between the old and new bas# eline
+# This program creates a file system baseline or if a previous baseline exists then compares the difference between the old and new baseline
 # 
 # Usage: ./fsBaseline.sh [ -d path ] <file1> [<file2>]
 # -d Starting directory for baselining process 
